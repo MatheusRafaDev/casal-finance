@@ -1,0 +1,6 @@
+@CasalFinance_HostAddress = http://localhost:5121
+
+GET {{CasalFinance_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

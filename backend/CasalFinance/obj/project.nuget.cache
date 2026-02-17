@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DOoxP5Plx0o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafae_llizu7w\\Documents\\git\\casal-finance\\backend\\CasalFinance\\CasalFinance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae_llizu7w\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\rafae_llizu7w\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
