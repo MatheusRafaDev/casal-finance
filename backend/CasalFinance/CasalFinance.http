@@ -1,4 +1,4 @@
-@CasalFinance_HostAddress = http://localhost:5121
+@CasalFinance_HostAddress = http://localhost:5059
 
 GET {{CasalFinance_HostAddress}}/weatherforecast/
 Accept: application/json
